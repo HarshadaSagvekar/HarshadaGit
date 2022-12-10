@@ -17,6 +17,7 @@ namespace SRPRefactoredApp.ReportService
         public StringBuilder formattedOutput()
         {
             StringBuilder sb = new StringBuilder();
+            sb.Append("Decription : " + _invoice._discription);
             sb.Append("Amount : " + _invoice._amount);
             sb.Append("\nTax : " + _invoice.Tax);
             sb.Append("\nDiscount : " + _invoice.discount);

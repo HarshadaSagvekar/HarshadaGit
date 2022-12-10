@@ -48,7 +48,8 @@ namespace SRPViolationApp.BusinessModel
         public void GenerateInvoice()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Amount : " + _amount);
+            sb.Append("Decription : " + _discription);
+            sb.Append("\nAmount : " + _amount);
             sb.Append("\nTax : " + Tax);
             sb.Append("\nDiscount : " + discount);
             sb.Append("\nTotal : " + Total);

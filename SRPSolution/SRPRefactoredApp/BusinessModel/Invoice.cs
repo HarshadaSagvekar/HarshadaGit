@@ -10,7 +10,7 @@ namespace SRPRefactoredApp.BusinessModel
     {
         public double _amount;
         private double _discountPercent;
-        private string _discription;
+        public string _discription;
 
         public Invoice(double amount,string discription,double discountPercent)
         {
