@@ -1,0 +1,15 @@
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\bin\Debug\net6.0\SRPViolationApp.exe
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\bin\Debug\net6.0\SRPViolationApp.deps.json
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\bin\Debug\net6.0\SRPViolationApp.runtimeconfig.json
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\bin\Debug\net6.0\SRPViolationApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\bin\Debug\net6.0\SRPViolationApp.pdb
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.csproj.AssemblyReference.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.AssemblyInfoInputs.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.AssemblyInfo.cs
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.csproj.CoreCompileInputs.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\refint\SRPViolationApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.pdb
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\SRPViolationApp.genruntimeconfig.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPViolationApp\obj\Debug\net6.0\ref\SRPViolationApp.dll

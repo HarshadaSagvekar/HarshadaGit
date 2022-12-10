@@ -1,0 +1,15 @@
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\bin\Debug\net6.0\SRPRefactoredApp.exe
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\bin\Debug\net6.0\SRPRefactoredApp.deps.json
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\bin\Debug\net6.0\SRPRefactoredApp.runtimeconfig.json
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\bin\Debug\net6.0\SRPRefactoredApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\bin\Debug\net6.0\SRPRefactoredApp.pdb
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.csproj.AssemblyReference.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.AssemblyInfoInputs.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.AssemblyInfo.cs
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.csproj.CoreCompileInputs.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\refint\SRPRefactoredApp.dll
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.pdb
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\SRPRefactoredApp.genruntimeconfig.cache
+F:\HarshadaProject\HarshadaGit\SRPSolution\SRPRefactoredApp\obj\Debug\net6.0\ref\SRPRefactoredApp.dll
