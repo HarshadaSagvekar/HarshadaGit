@@ -19,7 +19,7 @@ namespace SRPRefactoredApp.BusinessModel
             _discountPercent = discountPercent;
         }
 
-        public double discount
+        public double Discount
         {
             get
             {
@@ -40,7 +40,7 @@ namespace SRPRefactoredApp.BusinessModel
         {
             get
             {
-                return _amount - discount + Tax;
+                return _amount - Discount + Tax;
             }
             
         }

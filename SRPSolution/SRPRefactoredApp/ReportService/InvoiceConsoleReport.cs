@@ -9,7 +9,7 @@ namespace SRPRefactoredApp.ReportService
 {
     internal class InvoiceConsoleReport
     {
-        Invoice _invoice;
+        private readonly Invoice _invoice;
         public InvoiceConsoleReport(Invoice invoice) {
             _invoice = invoice;
         }
@@ -20,7 +20,7 @@ namespace SRPRefactoredApp.ReportService
             sb.Append("Decription : " + _invoice._discription);
             sb.Append("Amount : " + _invoice._amount);
             sb.Append("\nTax : " + _invoice.Tax);
-            sb.Append("\nDiscount : " + _invoice.discount);
+            sb.Append("\nDiscount : " + _invoice.Discount);
             sb.Append("\nTotal : " + _invoice.Total);
 
             return sb;
